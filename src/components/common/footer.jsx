@@ -44,7 +44,7 @@ const Footer = () => {
       {/* Left section with brand and social icons */}
       <div>
         <h1 className="w-full text-3xl lg:text-4xl xl:text-5xl font-bold text-[#00df9a]">
-          GoPlan
+          PlanIt
         </h1>
         <p className="py-4">Making travel easy for you.</p>
         <div className="flex justify-between md:w-[75%] my-6">

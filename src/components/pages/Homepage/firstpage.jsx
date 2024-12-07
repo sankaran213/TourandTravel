@@ -16,7 +16,9 @@ const FirstPage = () => {
       />
       <Collage />
 
-      <img src="/src/assets/Frame.png" className="justify-center px-60 py-20" />
+      <div className="justify-center px-60 py-20 ">
+        <img src="/src/assets/Frame.png" className="" />
+      </div>
       <Footer />
     </React.Fragment>
   );
